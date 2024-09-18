@@ -1,0 +1,280 @@
+[14-Sep-2024 10:30:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_remote_post() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php:32
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(34): send_offer_to_customer()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php on line 32
+[14-Sep-2024 10:39:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_remote_post() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php:32
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(34): send_offer_to_customer()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php on line 32
+[14-Sep-2024 10:41:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_remote_post() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php:32
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(34): send_offer_to_customer()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php on line 32
+[14-Sep-2024 10:43:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_remote_post() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php:32
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(34): send_offer_to_customer()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php on line 32
+[14-Sep-2024 10:43:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_remote_post() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php:32
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(34): send_offer_to_customer()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php on line 32
+[14-Sep-2024 10:43:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_remote_post() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php:32
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(34): send_offer_to_customer()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php on line 32
+[14-Sep-2024 10:45:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_remote_post() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php:32
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(34): send_offer_to_customer()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php on line 32
+[14-Sep-2024 10:45:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_remote_post() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php:32
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(34): send_offer_to_customer()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php on line 32
+[14-Sep-2024 10:46:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_remote_post() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php:32
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(34): send_offer_to_customer()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php on line 32
+[14-Sep-2024 10:46:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_remote_post() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php:32
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(34): send_offer_to_customer()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php on line 32
+[14-Sep-2024 11:13:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_remote_post() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php:32
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(34): send_offer_to_customer()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php on line 32
+[14-Sep-2024 11:13:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_remote_post() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php:32
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(34): send_offer_to_customer()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php on line 32
+[14-Sep-2024 11:43:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_remote_post() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php:32
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(34): send_offer_to_customer()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php on line 32
+[14-Sep-2024 11:43:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_remote_post() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php:32
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(34): send_offer_to_customer()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php on line 32
+[14-Sep-2024 11:43:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_remote_post() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php:32
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(34): send_offer_to_customer()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php on line 32
+[14-Sep-2024 11:43:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_remote_post() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php:32
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(34): send_offer_to_customer()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php on line 32
+[16-Sep-2024 07:54:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_remote_post() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php:32
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(34): send_offer_to_customer()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php on line 32
+[16-Sep-2024 07:54:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_remote_post() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php:32
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(34): send_offer_to_customer()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php on line 32
+[16-Sep-2024 13:27:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_remote_post() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php:32
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(34): send_offer_to_customer()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php on line 32
+[16-Sep-2024 14:08:03 UTC] PHP Warning:  Undefined array key "selected_customers" in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 20
+[16-Sep-2024 14:08:25 UTC] PHP Warning:  Undefined array key "selected_customers" in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 20
+[16-Sep-2024 14:58:55 UTC] PHP Warning:  Undefined array key "selected_customers" in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 22
+[16-Sep-2024 14:59:33 UTC] PHP Warning:  Undefined array key "selected_customers" in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 22
+[16-Sep-2024 15:40:41 UTC] PHP Warning:  Undefined array key "send_offer_nonce" in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 14
+[16-Sep-2024 15:40:41 UTC] PHP Fatal error:  Uncaught TypeError: hash_equals(): Argument #1 ($known_string) must be of type string, null given in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:14
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(14): hash_equals()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 14
+[16-Sep-2024 15:40:47 UTC] PHP Warning:  Undefined array key "send_offer_nonce" in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 14
+[16-Sep-2024 15:40:47 UTC] PHP Fatal error:  Uncaught TypeError: hash_equals(): Argument #1 ($known_string) must be of type string, null given in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:14
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(14): hash_equals()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 14
+[16-Sep-2024 15:40:59 UTC] PHP Warning:  Undefined array key "send_offer_nonce" in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 14
+[16-Sep-2024 15:40:59 UTC] PHP Fatal error:  Uncaught TypeError: hash_equals(): Argument #1 ($known_string) must be of type string, null given in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:14
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(14): hash_equals()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 14
+[16-Sep-2024 15:41:44 UTC] PHP Warning:  Undefined array key "send_offer_nonce" in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 14
+[16-Sep-2024 15:41:44 UTC] PHP Fatal error:  Uncaught TypeError: hash_equals(): Argument #1 ($known_string) must be of type string, null given in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:14
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(14): hash_equals()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 14
+[16-Sep-2024 15:41:51 UTC] PHP Warning:  Undefined array key "send_offer_nonce" in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 14
+[16-Sep-2024 15:41:51 UTC] PHP Fatal error:  Uncaught TypeError: hash_equals(): Argument #1 ($known_string) must be of type string, null given in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:14
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(14): hash_equals()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 14
+[16-Sep-2024 15:42:11 UTC] PHP Warning:  Undefined array key "selected_customers" in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 22
+[16-Sep-2024 15:42:29 UTC] PHP Warning:  Undefined array key "selected_customers" in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 22
+[16-Sep-2024 16:32:31 UTC] PHP Warning:  Undefined array key "custom_message" in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 21
+[16-Sep-2024 16:32:31 UTC] PHP Warning:  Undefined array key "selected_customers" in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 22
+[16-Sep-2024 16:45:08 UTC] PHP Warning:  Undefined array key "selected_customers" in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 22
+[16-Sep-2024 16:46:18 UTC] PHP Warning:  Undefined array key "selected_customers" in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 22
+[16-Sep-2024 17:29:05 UTC] PHP Warning:  Undefined array key "selected_customers" in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 22
+[17-Sep-2024 05:14:25 UTC] PHP Warning:  Undefined array key "selected_customers" in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 22
+[17-Sep-2024 05:18:09 UTC] PHP Warning:  Undefined array key "selected_customers" in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 22
+[17-Sep-2024 05:18:37 UTC] PHP Warning:  Undefined array key "selected_customers" in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 22
+[17-Sep-2024 05:19:34 UTC] PHP Warning:  Undefined array key "selected_customers" in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 22
+[17-Sep-2024 09:20:36 UTC] PHP Warning:  Undefined array key "selected_customers" in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 22
+[17-Sep-2024 11:56:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_message_to_customer() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 36
+[17-Sep-2024 11:56:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_message_to_customer() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 36
+[17-Sep-2024 11:57:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_message_to_customer() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 36
+[17-Sep-2024 11:58:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_message_to_customer() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 39
+[17-Sep-2024 11:58:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_message_to_customer() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 39
+[17-Sep-2024 11:59:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_message_to_customer() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 39
+[17-Sep-2024 12:02:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_message_to_customer() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 39
+[17-Sep-2024 12:02:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_message_to_customer() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 39
+[17-Sep-2024 12:02:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_message_to_customer() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 39
+[17-Sep-2024 12:06:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_message_to_customer() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 39
+[17-Sep-2024 12:07:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_message_to_customer() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 39
+[17-Sep-2024 12:07:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_message_to_customer() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 39
+[17-Sep-2024 12:08:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_message_to_customer() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 39
+[17-Sep-2024 12:13:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_message_to_customer() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 44
+[17-Sep-2024 12:18:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_message_to_customer() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 44
+[17-Sep-2024 12:19:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function send_message_to_customer() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 44
+[17-Sep-2024 12:19:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_remote_post() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php:34
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(44): send_offer_to_customer()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php on line 34
+[17-Sep-2024 12:28:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_wp_error() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 47
+[17-Sep-2024 12:30:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function is_wp_error() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 47
+[17-Sep-2024 12:30:35 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function send_offer_to_customer(), 3 passed in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 44 and exactly 6 expected in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php:3
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(44): send_offer_to_customer()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php on line 3
+[17-Sep-2024 12:31:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_remote_post() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php:34
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(44): send_offer_to_customer()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php on line 34
+[17-Sep-2024 12:32:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_remote_post() in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php:34
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(44): send_offer_to_customer()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/whatsapp_api.php on line 34
+[18-Sep-2024 04:47:16 UTC] PHP Warning:  Undefined array key "send_message_nonce" in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 19
+[18-Sep-2024 04:47:16 UTC] PHP Fatal error:  Uncaught TypeError: hash_equals(): Argument #1 ($known_string) must be of type string, null given in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:19
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(19): hash_equals()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 19
+[18-Sep-2024 04:49:50 UTC] PHP Warning:  Undefined array key "send_message_nonce" in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 19
+[18-Sep-2024 04:49:50 UTC] PHP Fatal error:  Uncaught TypeError: hash_equals(): Argument #1 ($known_string) must be of type string, null given in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:19
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(19): hash_equals()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 19
+[18-Sep-2024 05:11:52 UTC] PHP Warning:  include(navbar.php): Failed to open stream: No such file or directory in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/login.php on line 20
+[18-Sep-2024 05:11:52 UTC] PHP Warning:  include(navbar.php): Failed to open stream: No such file or directory in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/login.php on line 20
+[18-Sep-2024 05:11:52 UTC] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/login.php on line 20
+[18-Sep-2024 05:11:52 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/login.php on line 42
+[18-Sep-2024 05:11:52 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/login.php on line 42
+[18-Sep-2024 05:11:52 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/login.php on line 42
+[18-Sep-2024 05:12:00 UTC] PHP Warning:  include(navbar.php): Failed to open stream: No such file or directory in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/login.php on line 20
+[18-Sep-2024 05:12:00 UTC] PHP Warning:  include(navbar.php): Failed to open stream: No such file or directory in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/login.php on line 20
+[18-Sep-2024 05:12:00 UTC] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/login.php on line 20
+[18-Sep-2024 05:12:00 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/login.php on line 42
+[18-Sep-2024 05:12:00 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/login.php on line 42
+[18-Sep-2024 05:12:00 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/login.php on line 42
+[18-Sep-2024 05:12:45 UTC] PHP Warning:  include(navbar.php): Failed to open stream: No such file or directory in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/login.php on line 20
+[18-Sep-2024 05:12:45 UTC] PHP Warning:  include(navbar.php): Failed to open stream: No such file or directory in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/login.php on line 20
+[18-Sep-2024 05:12:45 UTC] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/login.php on line 20
+[18-Sep-2024 05:12:45 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/login.php on line 42
+[18-Sep-2024 05:12:45 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/login.php on line 42
+[18-Sep-2024 05:12:45 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/login.php on line 42
+[18-Sep-2024 05:12:47 UTC] PHP Warning:  include(navbar.php): Failed to open stream: No such file or directory in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/login.php on line 20
+[18-Sep-2024 05:12:47 UTC] PHP Warning:  include(navbar.php): Failed to open stream: No such file or directory in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/login.php on line 20
+[18-Sep-2024 05:12:47 UTC] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/login.php on line 20
+[18-Sep-2024 05:12:47 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/login.php on line 42
+[18-Sep-2024 05:12:47 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/login.php on line 42
+[18-Sep-2024 05:12:47 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/login.php on line 42
+[18-Sep-2024 05:30:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'wp_whatsapp.message_offer' doesn't exist in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php:60
+Stack trace:
+#0 /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php(60): mysqli->prepare()
+#1 {main}
+  thrown in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/send_offer.php on line 60
+[18-Sep-2024 05:48:05 UTC] PHP Warning:  include(navbar.php): Failed to open stream: No such file or directory in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/sent_messages.php on line 44
+[18-Sep-2024 05:48:05 UTC] PHP Warning:  include(navbar.php): Failed to open stream: No such file or directory in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/sent_messages.php on line 44
+[18-Sep-2024 05:48:05 UTC] PHP Warning:  include(): Failed opening 'navbar.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/sent_messages.php on line 44
+[18-Sep-2024 05:48:05 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/sent_messages.php on line 90
+[18-Sep-2024 05:48:05 UTC] PHP Warning:  include(footer.php): Failed to open stream: No such file or directory in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/sent_messages.php on line 90
+[18-Sep-2024 05:48:05 UTC] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php82/usr/share/pear:/opt/alt/php82/usr/share/php:/usr/share/pear:/usr/share/php') in /home/bsxkvfnh7i07/public_html/whatsapp_service/include/sent_messages.php on line 90
